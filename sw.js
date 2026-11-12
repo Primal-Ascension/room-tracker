@@ -17,7 +17,7 @@
  */
 
 // Filled in by the build. Do not edit by hand.
-const CACHE_VERSION = 'b21d643751f1469f';
+const CACHE_VERSION = '7eb622ee867020e6';
 const CACHE_PREFIX = 'room-tracker-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 
